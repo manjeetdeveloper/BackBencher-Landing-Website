@@ -18,7 +18,10 @@ The Website is just a HTML file using a CDN service
 #
 Use it for learn, but please don’t republish, redistribute, or resell the template.
 
-For personal or commersial project, just contact.
+For personal or commersial project, just contact me On My Linkden 
 
-- Code by Manjeet Developer
-- UI/UX by Shadab Ahmed
+
+
+
+- Code by Manjeet Developer 💫💫🕳️✝️ [Linkedin](https://www.linkedin.com/in/manjeetdeveloper2022)
+- UI/UX by Shadab Ahmed  💫💫🕳️✝️ [Linkedin](https://www.linkedin.com/in/shadabdeveloper/)
